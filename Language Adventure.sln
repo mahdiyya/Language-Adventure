@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Language Adventure", "Language Adventure.csproj", "{3C9F9059-B2EB-E2D6-E61F-5A2D48BC2C1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Language Adventure.Plugins", "Language Adventure.Plugins.csproj", "{DB01E428-D577-E159-97AE-2829F3118C0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Language Adventure.Editor", "Language Adventure.Editor.csproj", "{DF7DC4E1-AE76-E86F-1D43-5A4C7859D896}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C9F9059-B2EB-E2D6-E61F-5A2D48BC2C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C9F9059-B2EB-E2D6-E61F-5A2D48BC2C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C9F9059-B2EB-E2D6-E61F-5A2D48BC2C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C9F9059-B2EB-E2D6-E61F-5A2D48BC2C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB01E428-D577-E159-97AE-2829F3118C0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB01E428-D577-E159-97AE-2829F3118C0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB01E428-D577-E159-97AE-2829F3118C0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB01E428-D577-E159-97AE-2829F3118C0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF7DC4E1-AE76-E86F-1D43-5A4C7859D896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7DC4E1-AE76-E86F-1D43-5A4C7859D896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7DC4E1-AE76-E86F-1D43-5A4C7859D896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7DC4E1-AE76-E86F-1D43-5A4C7859D896}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
